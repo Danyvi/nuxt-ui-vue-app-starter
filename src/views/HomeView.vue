@@ -15,5 +15,10 @@
   <UButton class="font-bold rounded-full">Button</UButton>
   <UIcon name="i-lucide-lightbulb" class="size-5" />
   <UButton icon="i-lucide-sun" variant="subtle">Button</UButton>
+
+  <ColorModeButton />
 </template>
 
+<script setup>
+import ColorModeButton from '@/components/ColorModeButton.vue';
+</script>
