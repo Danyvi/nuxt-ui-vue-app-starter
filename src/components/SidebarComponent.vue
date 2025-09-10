@@ -1,5 +1,6 @@
 <template>
    <ColorModeButton />
+    <UAvatar src="https://github.com/benjamincanac.png" />
 </template>
 
 <script setup>
